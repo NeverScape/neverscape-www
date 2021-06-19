@@ -1,3 +1,3 @@
 ## Development Blog
 
-* [2019-11-02 - First Development Blog](devblog/000.md)
+There's nothing here just yet... ;_;

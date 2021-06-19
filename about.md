@@ -1,6 +1,6 @@
 ## About
 
-NeverScape is a work-in-progress 2D MMORPG written entirely in Python 3.6+ with a focus on cozy aesthetics, pets, non-combat skilling, old-school vibes, community and socialization. It's a cross-platform game and should run on most Desktop computers including Microsoft Windows, MacOS, and Linux. NeverScape is currently under development and in a pre-pre-pre alpha state. NeverScape is an open-source project on [GitHub](https://github.com/NeverScape), the client & server will be open-source soon. Please join [our Discord](https://discord.gg/uwmq5cp) server to become part of the community and keep up to date with the latest!
+NeverScape is a work-in-progress 2D MMORPG written entirely in Python with a focus on cozy aesthetics, pets, non-combat skilling, old-school vibes, community and socialization. It's a cross-platform game and should run on most Desktop computers including Microsoft Windows, MacOS, and Linux. NeverScape is currently under development and in a pre-pre-pre alpha state. NeverScape is an open-source project on [GitHub](https://github.com/NeverScape), the client & server will be open-source soon. Please join [our Discord](https://discord.gg/eqXuDKEWaj) server to become part of the community and keep up to date with the latest!
 
 ### Developer
 
